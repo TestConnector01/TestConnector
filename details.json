@@ -10,20 +10,18 @@
       {"id":0, "app":"com.android.game"}
     ],
     "free":[
-        {"id":0, "file":0, "city":"Osaka","country":"Japan","image":"jp",           "ip":"118.241.9.17","active":"true","signal":"a"},
-        {"id":1, "file":1, "city":"Yokohama","country":"Japan","image":"jp",        "ip":"121.109.77.83","active":"true","signal":"a"},
-        {"id":2, "file":2, "city":"Chiang Mai","country":"Thailand","image":"th",         "ip":"124.121.138.79","active":"true","signal":"a"},
-         {"id":3, "file":3, "city":"Sydney","country":"Australia","image":"au",       "ip":"124.191.166.82","active":"true","signal":"a"},
-        {"id":4, "file":4, "city":"Chicago","country":"United States","image":"us",     "ip":"139.180.147.96","active":"true","signal":"a"},
-        {"id":5, "file":5, "city":"Houston","country":"United States","image":"us",        "ip":"163.182.174.159","active":"true","signal":"a"},
-        {"id":6, "file":6, "city":"Phoenix","country":"United States","image":"us",        "ip":"173.233.73.3","active":"true","signal":"a"},
-        {"id":7, "file":7, "city":"Seoul","country":"Korea","image":"kr",        "ip":"175.211.148.68","active":"true","signal":"a"},
-        {"id":8, "file":8, "city":"Buenos Aires","country":"Argentina","image":"ar",        "ip":"181.116.200.17","active":"true","signal":"a"},
-        {"id":9, "file":9, "city":"San Diego","country":"United States","image":"us",        "ip":"207.148.112.140","active":"true","signal":"a"},
-        {"id":10, "file":10, "city":"Busan","country":"Korea","image":"kr",      "ip":"211.214.142.183","active":"true","signal":"a"},
-        {"id":11, "file":11, "city":"Tokyo","country":"Japan","image":"jp",         "ip":"219.100.37.209","active":"true","signal":"a"},
-        {"id":12, "file":12, "city":"Incheon","country":"Korea","image":"kr",      "ip":"59.22.56.16","active":"true","signal":"a"},
-        {"id":13, "file":13, "city":"Marseille","country":"France","image":"fr",      "ip":"86.218.23.29","active":"true","signal":"a"},
-        {"id":14, "file":14, "city":"Kyoto","country":"Japan","image":"jp",      "ip":"92.202.160.236","active":"true","signal":"a"}
+      {"id":0, "file":6, "city":"Tokyo","country":"Japan","image":"jp",           "ip":"219.100.37.110","active":"true","signal":"a"},
+      {"id":1, "file":8, "city":"Kyoto","country":"Japan","image":"jp",        "ip":"219.100.37.98","active":"true","signal":"a"},
+      {"id":2, "file":0, "city":"Seoul","country":"Korea","image":"kr",         "ip":"118.217.127.138","active":"true","signal":"a"},
+       {"id":3, "file":1, "city":"Houston","country":"United States","image":"us",       "ip":"139.180.147.96","active":"true","signal":"a"},
+      {"id":4, "file":2, "city":"Chicago","country":"United States","image":"us",     "ip":"163.182.174.159","active":"true","signal":"a"},
+      {"id":5, "file":3, "city":"Busan","country":"Korea","image":"kr",        "ip":"175.211.148.68","active":"true","signal":"a"},
+      {"id":6, "file":4, "city":"Phoenix","country":"United States","image":"us",        "ip":"207.148.112.140","active":"true","signal":"a"},
+      {"id":7, "file":5, "city":"Incheon","country":"Korea","image":"kr",        "ip":"211.106.88.100","active":"true","signal":"a"},
+      {"id":8, "file":7, "city":"Osaka","country":"Japan","image":"jp",        "ip":"219.100.37.209","active":"true","signal":"a"},
+      {"id":9, "file":9, "city":"Toronto","country":"Canada","image":"ca",        "ip":"70.65.229.60","active":"true","signal":"a"},
+      {"id":10, "file":10, "city":"Saint Petersburg","country":"Russia","image":"ru",      "ip":"78.36.198.166","active":"true","signal":"a"},
+      {"id":11, "file":11, "city":"Yokohama","country":"Japan","image":"jp",         "ip":"92.202.160.236","active":"true","signal":"a"},
+      {"id":12, "file":12, "city":"Moscow","country":"Russia","image":"ru",      "ip":"93.177.0.82","active":"true","signal":"a"}
     ]
   }
